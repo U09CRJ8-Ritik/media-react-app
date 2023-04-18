@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "name": "Ritik",
+      "id": 1
+    },
+    {
+      "name": "Stephen Ratke",
+      "id": 2
+    },
+    {
+      "name": "Miss Ronnie Stamm DDS",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 2,
+      "title": "Licensed Rubber Tuna",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Generic Frozen Gloves",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Gorgeous Concrete Soap",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Granite Cheese",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Concrete Car",
+      "id": 19
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=39913",
+      "id": 1
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=60058",
+      "id": 2
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=49014",
+      "id": 3
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=29971",
+      "id": 4
+    }
+  ]
+}
